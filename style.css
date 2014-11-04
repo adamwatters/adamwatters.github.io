@@ -3,8 +3,8 @@ html {
 }
 
 .picture-strip {
-	height:730px;
-	width:90px;
+	height:90px;
+	width:730px;
 	margin-bottom: 5px;
 	border: solid black 1px;
 }
