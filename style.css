@@ -5,6 +5,6 @@ html {
 .picture-strip {
 	height:730px;
 	width:90px;
-	margin-bottom: ;
-	border:;
+	margin-bottom: 5px;
+	border: solid black 1px;
 }
