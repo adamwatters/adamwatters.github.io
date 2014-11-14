@@ -1,5 +1,7 @@
-html {
-	min-width: 1040px;
+body  {
+  margin: 0 auto;
+  width: 730px;
+
 }
 
 body > p {
